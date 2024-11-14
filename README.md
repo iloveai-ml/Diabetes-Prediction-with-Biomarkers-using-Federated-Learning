@@ -328,7 +328,7 @@ Here's an overview of the dataset:
 
 
 
-## Loss Curve
+## Accuracy Curve
 ![image](https://github.com/user-attachments/assets/fea6f2ad-1d15-40fb-a19d-109736889a58)
 
 
