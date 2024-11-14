@@ -1,7 +1,9 @@
 # Summary
 
-I have utiised a Diabestes prediction model which utilizes 19 features and 253680 subjects
+## Dataset
+I have utiised a Diabestes prediction model which utilizes 22 features and 253680 subjects
 
+Here's an overview of the dataset:
 <div>
 
 
@@ -302,6 +304,8 @@ I have utiised a Diabestes prediction model which utilizes 19 features and 25368
 <p>253680 rows × 22 columns</p>
 </div>
 
+## Notable Relations Among Features in Dataset
+
 ![image](https://github.com/user-attachments/assets/e727bd93-5c0a-42dc-accb-28a36696a0d0)
 
 
@@ -314,20 +318,26 @@ I have utiised a Diabestes prediction model which utilizes 19 features and 25368
 
 
 
+![image](https://github.com/user-attachments/assets/346629bd-80b4-4bcc-ae49-cd1539861678)
+
+
+## Model Summary
+
+![image](https://github.com/user-attachments/assets/e92482dd-e9de-4baf-8778-fa5923c83ed6)
 
 
 
 
+## Loss Curve
+![image](https://github.com/user-attachments/assets/fea6f2ad-1d15-40fb-a19d-109736889a58)
 
 
 
+<!---![af15f6f3-fe0c-42f0-bf2c-5e958e41d1f4](https://github.com/user-attachments/assets/6786cf90-a0eb-44eb-bfcb-b37fe6f3d5ef)
 
 
 
-
-
-
-
+--->
 
 
 
